@@ -1,7 +1,7 @@
 # 🚀 AI-Powered Code Reviewer
 
 An advanced **AI-powered code analysis tool** that reviews source code for **quality, security, and performance issues** using large language models.  
-Built with a modern **React + Monaco Editor frontend** and a **Node.js + Express backend**, this project demonstrates real-world AI integration for developer tooling.
+Built with a modern **React + Monaco Editor frontend** and a **Node.js + Express backend**, this project demonstrates real-world AI integration for developer tooling
 
 ---
 
